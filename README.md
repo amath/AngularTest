@@ -27,7 +27,7 @@ teaching a single aspect of angular.
   static json files.
 - Read the Development section at the end to familiarize yourself with running and developing
   an angular application.
-
+ghhg
 ## Commits / Tutorial Outline
 
 You can check out any point of the tutorial using
